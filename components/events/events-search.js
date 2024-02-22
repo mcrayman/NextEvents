@@ -9,8 +9,8 @@ function EventsSearch(props) {
         <div className={classes.control}> 
           <label htmlFor="year">Year</label>
           <select id="year">
-            <option value="2022">2022</option>
-            <option value="2023">2023</option>
+            <option value="2024">2022</option>
+            <option value="2025">2023</option>
           </select>
         </div>
         <div className={classes.control}>
