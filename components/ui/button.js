@@ -11,7 +11,7 @@ function Button(props) {
     );
   }
 
-  return <button className={classes.btn} onClick={props.children}>{props.children}</button>
+  return <button className={classes.btn} onClick={props.onClick}>{props.children}</button>
 }
 
 export default Button;
